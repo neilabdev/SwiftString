@@ -6,5 +6,5 @@ let package = Package(
 	targets: [],
 	dependencies: [
 	],
-    swiftLanguageVersions: [4.1]
+    swiftLanguageVersions: [4]
 )
