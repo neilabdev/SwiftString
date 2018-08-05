@@ -3,8 +3,8 @@
 import PackageDescription
 let package = Package(
 	name: "SwiftString",
-	targets: [],
 	dependencies: [
 	],
+	targets: [],
     swiftLanguageVersions: [4]
 )
